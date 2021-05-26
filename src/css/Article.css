@@ -1,0 +1,29 @@
+/* .icon {
+    margin-right: theme.spacing(2),
+}
+
+.heroContent {
+    background-color: theme.palette.background.paper,
+    padding: theme.spacing(8, 0, 6),
+  }
+
+  .heroButtons {
+    margin-top: theme.spacing(4),
+  }
+
+  .cardGrid {
+    padding-top: theme.spacing(8),
+    padding-bottom: theme.spacing(8),
+  }
+  .card {
+    height: '100%',
+    display: 'flex',
+    radius: "0%",
+    flexDirection: 'column',
+  }
+  .cardMedia {
+    height: '80%', // 16:9
+  }
+  .cardContent {
+    flexGrow: 1,
+  } */
